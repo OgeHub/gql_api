@@ -1,6 +1,6 @@
 # GrapQL API
 
-**Introduction**: This is my first GraphQL API. It contains basic Auth functionalities(signup and login), get a user details query and get all users query.
+**Introduction**: This is my first GraphQL API. It contains basic Auth functionalities (signup and login), get a user details query, and get all users query.
 
 ## To test locally:
 1. Clone this repository
